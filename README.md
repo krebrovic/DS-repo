@@ -1,5 +1,5 @@
 # DS-repo
-Data science files and analysis for the Time series analysis
+ files and analysis for the Time series analysis
 
 Files:
 
